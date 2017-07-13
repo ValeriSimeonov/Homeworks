@@ -1,0 +1,279 @@
+# depslib dependency file v1.0
+1499354093 source:j:\learn from the master by muffin - musala soft\projects\travelagency\cperson.cpp
+	"CReadAndPrint.h"
+	"CPerson.h"
+	<iostream>
+	<string>
+
+1498739304 j:\learn from the master by muffin - musala soft\projects\travelagency\creadandprint.h
+
+1498739512 j:\learn from the master by muffin - musala soft\projects\travelagency\cperson.h
+	"CReadAndPrint.h"
+	<iostream>
+	<string>
+
+1498741704 source:j:\learn from the master by muffin - musala soft\projects\travelagency\creadandprint.cpp
+	"CReadAndPrint.h"
+
+1499367542 source:j:\learn from the master by muffin - musala soft\projects\travelagency\main.cpp
+	<iostream>
+	"CReadAndPrint.h"
+	"CPerson.h"
+	"CDate.h"
+	"CTrain.h"
+	"CBus.h"
+	"CAir.h"
+	"CPassenger.h"
+	"CDestination.h"
+	"CAgency.h"
+	<string>
+
+1499366481 source:j:\learn from the master by muffin - musala soft\projects\travelagency\cdate.cpp
+	"CDate.h"
+	"CReadAndPrint.h"
+	<iostream>
+	<string>
+
+1499366267 j:\learn from the master by muffin - musala soft\projects\travelagency\cdate.h
+	<string>
+	"CReadAndPrint.h"
+	<iostream>
+
+1499366497 source:j:\learn from the master by muffin - musala soft\projects\travelagency\cdestination.cpp
+	"CReadAndPrint.h"
+	"CDestination.h"
+	<iostream>
+	<string>
+
+1499366282 j:\learn from the master by muffin - musala soft\projects\travelagency\cdestination.h
+	"CReadAndPrint.h"
+	<iostream>
+	<string>
+
+1499366539 source:j:\learn from the master by muffin - musala soft\projects\travelagency\ctrain.cpp
+	"CTrain.h"
+	<string>
+	<iostream>
+
+1499366333 j:\learn from the master by muffin - musala soft\projects\travelagency\ctrain.h
+	"CDestination.h"
+	"CReadAndPrint.h"
+	<string>
+	<iostream>
+
+1498824862 source:d:\c++\tasks c++\travelagency\travelagency\cdate.cpp
+	"CDate.h"
+	"CReadAndPrint.h"
+	<iostream>
+	<string>
+
+1498824839 d:\c++\tasks c++\travelagency\travelagency\cdate.h
+	"CReadAndPrint.h"
+	<iostream>
+
+1498735704 d:\c++\tasks c++\travelagency\travelagency\creadandprint.h
+
+1498824902 source:d:\c++\tasks c++\travelagency\travelagency\cdestination.cpp
+	"CDestination.h"
+
+1498824935 d:\c++\tasks c++\travelagency\travelagency\cdestination.h
+	"CReadAndPrint.h"
+	<iostream>
+	<string>
+
+1498738689 source:d:\c++\tasks c++\travelagency\travelagency\cperson.cpp
+	"CReadAndPrint.h"
+	"CPerson.h"
+	<iostream>
+	<string>
+
+1498735912 d:\c++\tasks c++\travelagency\travelagency\cperson.h
+	"CReadAndPrint.h"
+	<iostream>
+	<string>
+
+1498738104 source:d:\c++\tasks c++\travelagency\travelagency\creadandprint.cpp
+	"CReadAndPrint.h"
+
+1498826707 source:d:\c++\tasks c++\travelagency\travelagency\ctrain.cpp
+	"CTrain.h"
+	<string>
+	<iostream>
+
+1498825469 d:\c++\tasks c++\travelagency\travelagency\ctrain.h
+	"CDestination.h"
+	"CReadAndPrint.h"
+	<string>
+	<iostream>
+
+1498853743 source:d:\c++\tasks c++\travelagency\travelagency\cbus.cpp
+	<iostream>
+	"CBus.h"
+
+1498853502 d:\c++\tasks c++\travelagency\travelagency\cbus.h
+	"CDestination.h"
+	<string>
+	<iostream>
+
+1498853673 source:d:\c++\tasks c++\travelagency\travelagency\main.cpp
+	<iostream>
+	"CReadAndPrint.h"
+	"CPerson.h"
+	"CDate.h"
+	"CTrain.h"
+	"CBus.h"
+	<string>
+
+1499366449 source:j:\learn from the master by muffin - musala soft\projects\travelagency\cair.cpp
+	<iostream>
+	"CAir.h"
+
+1499366237 j:\learn from the master by muffin - musala soft\projects\travelagency\cair.h
+	"CDestination.h"
+
+1499366469 source:j:\learn from the master by muffin - musala soft\projects\travelagency\cbus.cpp
+	<iostream>
+	"CBus.h"
+
+1499366253 j:\learn from the master by muffin - musala soft\projects\travelagency\cbus.h
+	"CDestination.h"
+	<string>
+	<iostream>
+
+1499366516 source:j:\learn from the master by muffin - musala soft\projects\travelagency\cpassenger.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"CPassenger.h"
+	"CTrain.h"
+	"CBus.h"
+	"CAir.h"
+	"CDate.h"
+	"CPerson.h"
+
+1499366309 j:\learn from the master by muffin - musala soft\projects\travelagency\cpassenger.h
+	"CTrain.h"
+	"CBus.h"
+	"CAir.h"
+	<string>
+	<iostream>
+
+1499413840 source:j:\learn from the master by muffin - musala soft\projects\travelagency\cagency.cpp
+	"CAgency.h"
+	"CPassenger.h"
+	<string>
+	<iostream>
+
+1499369342 j:\learn from the master by muffin - musala soft\projects\travelagency\cagency.h
+	<iostream>
+	<string>
+	"CPassenger.h"
+
+1499870241 source:c:\users\inmessionante\desktop\travelagency\cagency.cpp
+	"CAgency.h"
+	"CPassenger.h"
+	<string>
+	<iomanip>
+	<iostream>
+
+1499868247 c:\users\inmessionante\desktop\travelagency\cagency.h
+	<iostream>
+	<string>
+	"CPassenger.h"
+
+1499861221 c:\users\inmessionante\desktop\travelagency\cpassenger.h
+	"CTrain.h"
+	"CBus.h"
+	"CAir.h"
+	<string>
+	<iostream>
+
+1499366333 c:\users\inmessionante\desktop\travelagency\ctrain.h
+	"CDestination.h"
+	"CReadAndPrint.h"
+	<string>
+	<iostream>
+
+1499366282 c:\users\inmessionante\desktop\travelagency\cdestination.h
+	"CReadAndPrint.h"
+	<iostream>
+	<string>
+
+1498739304 c:\users\inmessionante\desktop\travelagency\creadandprint.h
+
+1499366253 c:\users\inmessionante\desktop\travelagency\cbus.h
+	"CDestination.h"
+	<string>
+	<iostream>
+
+1499366237 c:\users\inmessionante\desktop\travelagency\cair.h
+	"CDestination.h"
+
+1499520395 source:c:\users\inmessionante\desktop\travelagency\cair.cpp
+	<iostream>
+	"CAir.h"
+
+1499520202 source:c:\users\inmessionante\desktop\travelagency\cbus.cpp
+	<iostream>
+	"CBus.h"
+
+1499366481 source:c:\users\inmessionante\desktop\travelagency\cdate.cpp
+	"CDate.h"
+	"CReadAndPrint.h"
+	<iostream>
+	<string>
+
+1499366267 c:\users\inmessionante\desktop\travelagency\cdate.h
+	<string>
+	"CReadAndPrint.h"
+	<iostream>
+
+1499683114 source:c:\users\inmessionante\desktop\travelagency\cdestination.cpp
+	"CReadAndPrint.h"
+	"CDestination.h"
+	<iostream>
+	<string>
+
+1499865288 source:c:\users\inmessionante\desktop\travelagency\cpassenger.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"CPassenger.h"
+	"CTrain.h"
+	"CBus.h"
+	"CAir.h"
+	"CDate.h"
+	"CPerson.h"
+
+1498739512 c:\users\inmessionante\desktop\travelagency\cperson.h
+	"CReadAndPrint.h"
+	<iostream>
+	<string>
+
+1499861611 source:c:\users\inmessionante\desktop\travelagency\cperson.cpp
+	"CReadAndPrint.h"
+	"CPerson.h"
+	<iostream>
+	<string>
+
+1498741704 source:c:\users\inmessionante\desktop\travelagency\creadandprint.cpp
+	"CReadAndPrint.h"
+
+1499520124 source:c:\users\inmessionante\desktop\travelagency\ctrain.cpp
+	"CTrain.h"
+	<string>
+	<iostream>
+
+1499869560 source:c:\users\inmessionante\desktop\travelagency\main.cpp
+	<iostream>
+	"CReadAndPrint.h"
+	"CPerson.h"
+	"CDate.h"
+	"CTrain.h"
+	"CBus.h"
+	"CAir.h"
+	"CPassenger.h"
+	"CDestination.h"
+	"CAgency.h"
+	<string>
+
